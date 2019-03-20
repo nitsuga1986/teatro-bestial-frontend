@@ -59,3 +59,6 @@ Add to styles.scss:
 
 4. Deploy to Heroku
   https://medium.com/@hellotunmbi/how-to-deploy-angular-application-to-heroku-1d56e09c5147
+  git rm yarn.lock
+  git commit -m "Remove yarn lock file"
+  git push heroku master
