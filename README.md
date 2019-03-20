@@ -50,12 +50,12 @@ From https://scotch.io/tutorials/angularjs-best-practices-directory-structure
 3. Favicon
   https://github.com/FortAwesome/angular-fontawesome
 
-4. Deploy to Heroku
-  https://medium.com/@hellotunmbi/how-to-deploy-angular-application-to-heroku-1d56e09c5147
-
 5. Ionic icons
 (https://medium.freecodecamp.org/how-to-add-ionicons-to-your-angular-6-apps-7ee5a7b85dc2)
 Run `npm install ionicons --save`
 Add to styles.scss:
   $ionicons-font-path: "~ionicons/dist/fonts";
   @import "~ionicons/dist/scss/ionicons.scss";
+
+4. Deploy to Heroku
+  https://medium.com/@hellotunmbi/how-to-deploy-angular-application-to-heroku-1d56e09c5147
